@@ -9,8 +9,8 @@
 - 2018.06 ~ 2019.12 : (주)DIFT Frontend-Engineer
 
 ### 🏫 Education
-2018 ~ NOW : 국민대학교 소프트웨어융합학과
-2015 ~ 2018 : 한국디지털미디어고등학교 해킹방어과
+- 2018 ~ NOW : 국민대학교 소프트웨어융합학과
+- 2015 ~ 2018 : 한국디지털미디어고등학교 해킹방어과
 
 <!--
 **JunHyeokHa/JunHyeokHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
