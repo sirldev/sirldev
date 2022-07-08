@@ -1,12 +1,11 @@
 ### 👋 Hi there
-- [스틸리언](https://stealien.com) 에서 프론트엔드 개발자로 일하고 있습니다!
 - 현재 React.js 와 Django를 주로 사용하고 있습니다. 
 - JAMStack과 서비스 개발에 큰 관심을 갖고 있습니다.
 - 방탈출을 취미활동으로 하고 있습니다 :D
 
 ### 🔭 Career
-- 2020.05 ~ NOW : 스틸리언 개발팀 선임연구원 (산업기능요원)
-- 2018.06 ~ 2019.12 : (주)DIFT Frontend-Engineer
+- 2020.05 ~ 2022.07 : [스틸리언](https://stealien.com) 앱수트개발팀 선임연구원 (산업기능요원)
+- 2018.06 ~ 2019.12 : [(주)DIFT](https://www.demptyspace.com/) Frontend-Engineer
 
 ### 🏫 Education
 - 2018 ~ NOW : 국민대학교 소프트웨어융합학과 (군휴학)
