@@ -10,7 +10,7 @@
 - 방탈출을 취미활동으로 하고 있습니다 :D
 
 ### 🔭 Career
-- 2022.12 ~ : [Baree Corp.](https://www.reitwagen.co.kr) Full-Stack Engineer
+- 2022.12 ~ 2023.07 : [Baree Corp.](https://www.reitwagen.co.kr) Full-Stack Engineer
 - 2020.05 ~ 2022.07 : [Stealien](https://stealien.com) 앱수트개발팀 선임연구원 (산업기능요원)
 - 2018.06 ~ 2019.12 : [DIFT Corp.](https://www.demptyspace.com/) Frontend-Engineer
 
