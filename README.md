@@ -1,8 +1,6 @@
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsirldev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/sirldev"/>
+</a>
 
 ### 👋 Hi there
 - 현재 React.js 와 Django를 주로 사용하고 있습니다. 
@@ -15,10 +13,9 @@
 - 2018.06 ~ 2019.12 : [DIFT Corp.](https://www.demptyspace.com/) Frontend-Engineer
 
 ### 🏫 Education
-- 2018 ~ NOW : 국민대학교 소프트웨어융합학과
-- 2015 ~ 2018 : 한국디지털미디어고등학교 해킹방어과
+- 2018.03 ~ 2025.08 : 국민대학교 소프트웨어융합학과
+- 2015.03 ~ 2018.02 : 한국디지털미디어고등학교 해킹방어과
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirldev&show_icons=true&theme=dracula)
 <!--
 **JunHyeokHa/JunHyeokHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
